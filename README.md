@@ -22,7 +22,7 @@ Due to GitHub file size limitations, the processed dataset is hosted externally.
 - **Dataset:** Swiss-Prot Enzyme / Non-Enzyme Binary Dataset
 - **Size:** ~189 MB
 - **Download link:**  
-  https://drive.google.com/uc?id=FILE_ID&export=download
+  https://drive.google.com/file/d/12PQ08SJlLR1ZfBKJYVAgx6AZJiKxQnJp/view?usp=sharing
 
 ### Dataset Description
 
