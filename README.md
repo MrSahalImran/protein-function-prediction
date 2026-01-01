@@ -15,6 +15,32 @@ Protein function prediction is a core task in bioinformatics. This project formu
 - Dataset size: 100,000 sequences (balanced)
 - Sequence length: 50–1000 amino acids
 
+## Dataset Access
+
+Due to GitHub file size limitations, the processed dataset is hosted externally.
+
+- **Dataset:** Swiss-Prot Enzyme / Non-Enzyme Binary Dataset
+- **Size:** ~189 MB
+- **Download link:**  
+  https://drive.google.com/uc?id=FILE_ID&export=download
+
+### Dataset Description
+
+- Source: Swiss-Prot (UniProt)
+- Classes:
+  - Enzyme (with EC number)
+  - Non-Enzyme (without EC number)
+- Total samples: 100,000 (balanced)
+- Sequence length: 50–1000 amino acids
+
+After downloading, place the file inside the `data/` directory
+
+#### Alternatively, download via script:
+
+```bash
+python src/download_data.py
+```
+
 ## Model Architecture
 
 - Embedding layer
